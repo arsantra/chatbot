@@ -6,7 +6,7 @@ This is a an applied artificial intelligence (AI) program that helps your chatbo
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Arnab</a> 👋
 </h3>
 
 <h2 align="center">
