@@ -39,7 +39,9 @@ I love the entire process to leverage big data interpreting and visualizing skil
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=react&color=61DAFB)
+![](https://https://img.shields.io/badge/Python--green)
+![](https://https://img.shields.io/badge/Machine_Learning--764ABC)
+
 ![](https://img.shields.io/badge/Code-Machine_Learning-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-Artifical_Intelligence-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Tensorflow_informational?style=flat&logo=Ruby&color=CC342D)
