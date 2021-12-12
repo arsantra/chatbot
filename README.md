@@ -1,6 +1,6 @@
-# This is a chatbot project
-<h3 align="center">
-This is a an applied artificial intelligence (AI) program that helps your chatbot analyse and understand the natural human language communicated with one another. Chatbots is able to understand the intent of the conversation rather than just use the information to communicate and respond to queries.</h3>
+<h3 align="center"> Chatbot project</h3>
+
+This is a an applied artificial intelligence (AI) program that helps your chatbot analyse and understand the natural human language communicated with one another. Chatbots is able to understand the intent of the conversation rather than just use the information to communicate and respond to queries.
 
 
 </p>
