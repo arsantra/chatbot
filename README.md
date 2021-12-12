@@ -1,4 +1,4 @@
-# chatbot
+# This is a chatbot project
 This is a an applied artificial intelligence (AI) program that helps your chatbot analyse and understand the natural human language communicated with one another. Chatbots is able to understand the intent of the conversation rather than just use the information to communicate and respond to queries.
 
 
