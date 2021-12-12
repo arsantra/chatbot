@@ -39,21 +39,20 @@ I love the entire process to leverage big data interpreting and visualizing skil
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/-Python-green)
+![](https://img.shields.io/badge/Python--green)
 ![](https://img.shields.io/badge/Machine_Learning--764ABC)
+![](https://img.shields.io/badge/Artifical_Intelligence--F7DF1E)
+![](https://img.shields.io/badge/Tensorflow--CC342D)
+![](https://img.shields.io/badge/PyTorch--CC0000)
+![](https://img.shields.io/badge/OpenCV--CC0000)
+![](https://img.shields.io/badge/Sk_Learn--CC0000)
+![](https://img.shields.io/badge/Pandas--CC0000)
+![](https://img.shields.io/badge/Matplotlib--CC0000)
+![](https://img.shields.io/badge/NLTK--CC0000)
+![](https://img.shields.io/badge/HTML5--CC0000)
+![](https://img.shields.io/badge/PostgreSQL--CC0000)
+![](https://img.shields.io/badge/SQLite--CC0000)
 
-![](https://img.shields.io/badge/Code-Machine_Learning-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-Artifical_Intelligence-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Tensorflow_informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-PyTorch-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-OpenCV-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-Sk_Learn-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-Matplotlib-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-NLTK-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 
 </br>
 
